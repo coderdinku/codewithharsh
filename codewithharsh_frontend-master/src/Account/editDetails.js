@@ -34,7 +34,7 @@ export default function EditDetails() {
   }
   return (
     <div className={style.outer}>
-      <div className={style.codeplus}>
+      <div className={style.codewithharsh}>
         <form  >
           <div>
             <h3>Personal Details</h3>

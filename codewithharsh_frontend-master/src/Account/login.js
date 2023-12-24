@@ -39,7 +39,7 @@ const Login = () => {
 
   return (
     <div className={style.outer}>
-      <div className={style.codeplus}>
+      <div className={style.codewithharsh}>
         <p className={style.p}>{message}</p>
       </div>
       <div className={style.account}>

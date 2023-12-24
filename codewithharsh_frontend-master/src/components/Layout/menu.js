@@ -29,7 +29,7 @@ export default function Menubar() {
 >>>>>>> Stashed changes:src/components/Layout/menu.js
   return (
     <div className={styles.menubox}>
-      <div className={styles.logo}>CodePlus</div>
+      <div className={styles.logo}>codewithharsh</div>
       <div>
         <button className={styles.menubutton}>
           <NavLink to ="./"  className={styles.navlink}>
