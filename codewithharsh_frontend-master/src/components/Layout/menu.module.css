@@ -1,0 +1,48 @@
+.logo{
+    color: white;
+    font-size: 38px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: right;
+    margin-top: 15px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+}
+.menubox{
+    height: 100vh;
+    display: grid;
+    grid-template-rows: 2fr 9fr 1fr;
+    background-color: #052E3B; 
+}
+.navlink{
+    text-decoration: none;
+}
+.menubutton{
+    width: 100%;
+    border: none;
+    text-align: left;
+    padding-left: 25px;
+    background-color:#052E3B;
+    height: 41px;
+}
+.menucontent{
+    color:white;
+    cursor: pointer;
+    font-size: 15px;
+    
+}
+.menubutton:hover{
+    background-color: #286577;
+}
+.footer{
+    padding: 20px;
+    font-size: 8px;
+    color:white;
+}
+.iconi{
+    font-size: 15;
+    color: white;
+}
+
+.span{
+    margin-left: 8px;
+}

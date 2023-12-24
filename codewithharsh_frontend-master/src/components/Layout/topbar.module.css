@@ -1,0 +1,27 @@
+.topbar{
+    height:70px;
+    display: grid;
+   grid-template-columns: 1fr 13fr 0.6fr 0.6fr 0.6fr;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 13px;
+    background-color: #D8E4E8;
+    padding: 0 20px 0 20px;
+    color: #052E3B;
+}
+.div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #D8E4E8;
+    border: none;
+    cursor: pointer;
+}
+.icon{
+    font-size: 20px;
+    color: #052E3B;
+}

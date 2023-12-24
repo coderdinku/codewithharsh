@@ -1,0 +1,28 @@
+.leaderboard{
+        background-color: #052E3B;
+        color:white;
+        text-align: center;
+        margin: 5px;
+        border-radius: 15px;
+}
+.list{
+    list-style: none;
+    margin: 10px;
+}
+.content{
+    background-color: #052E3B;
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    border-bottom: 1px solid #D8E4E8;;
+    height: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding-top: 8px;
+    text-align: left;
+}
+.heading{
+    font-weight: bold;
+    font-size: 18px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}

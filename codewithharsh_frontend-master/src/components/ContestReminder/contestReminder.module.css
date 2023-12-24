@@ -1,0 +1,32 @@
+.contestbox{
+    background-color: #052E3B;
+    color:white;
+    text-align: center;
+    margin: 5px;
+    border-radius: 15px;
+}
+.contest{
+    background-color: #06576C;
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    height: auto;
+    margin: 10px;
+    padding: 8px;
+    border-radius: 10px;
+}
+.img{
+    border-radius: 50%;
+    background-color: white;
+}
+.h4{
+    padding-block-end: 0;
+    padding-block-start: 0;
+    margin-block-end: 0;
+    margin-block-start: 0;
+    font-size: 12px;
+}
+.platform_logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

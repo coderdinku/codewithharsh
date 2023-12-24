@@ -1,0 +1,16 @@
+.app{
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+}
+.part1{
+    display: grid;
+    grid-template-rows: 0.2fr 1fr;
+}
+.part2{
+    display:grid;
+    grid-template-columns: 2.5fr 1fr;
+}
+.part3{
+    display:grid;
+    grid-template-rows: 1fr 1fr;
+}

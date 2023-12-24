@@ -1,0 +1,118 @@
+
+.EditDetails{
+    background-color: #D8E4E8;
+}
+
+.outer{
+    display: block;
+    padding: 30px;    
+}
+.outer1{
+     padding: 20px;
+     color:#052E3B;
+}
+.box{
+    background-color: #D8E4E8;
+    padding: 20px;
+}
+.codeplus{
+    background-color: #D8E4E8;
+    border-radius: 20px;   
+    color: #052E3B;
+    text-align: center;
+}
+.p{
+   color: #06576C;
+}
+.account{
+    border-radius: 20px;
+    background-color: #06576C;
+    padding: 10px;
+    color: #D8E4E8;
+}
+.btn{
+    display: grid;
+    grid-template-columns: 7fr 1fr 1fr;
+    cursor: pointer;
+}
+.Signup2{
+    background-color: #D8E4E8;
+    padding: 5px;
+    color:  #06576C;
+    border-radius: 20px 0 0 20px;
+     border: none; 
+     cursor: pointer;  
+}
+.Login2{
+    background-color: #06576C;
+    padding: 5px;
+    color: #D8E4E8;
+    border: none;
+    border-radius: 0px 20px 20px 0px;
+    cursor: pointer;
+  
+}
+.Signup1{
+    background-color: #06576C;
+    padding: 5px;
+    color: #D8E4E8;
+    border-radius: 20px 0 0 20px;
+     border: none; 
+     cursor: pointer;  
+}
+.Login1{
+    background-color: #D8E4E8;
+    padding: 5px;
+    color:  #06576C;
+    border: none;
+    border-radius: 0px 20px 20px 0px;
+    cursor: pointer;
+}
+.form{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.input1{
+    margin-left: 5px;
+    background-color: #06576C;
+    border: none;
+    width: 10rem;
+    outline: none;
+    color: #D8E4E8;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #D8E4E8;
+}
+.input{
+    margin-left: 5px;
+    background-color: #D8E4E8;
+    border: none;
+    width: 10rem;
+    outline: none;
+    color: #06576C;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #06576C;
+}
+.label{
+    margin-left: 20px;
+}
+.buttonbox{
+    align-items: center;
+    justify-content: center;
+    text-align: center
+}
+.button{
+    border-radius: 10px;
+    margin-top: 3%;
+    font-weight: bold;
+    padding: 5px 20px;
+    color: #06576C;
+    background-color: #D8E4E8;
+    border: 1px solid #06576C;
+    cursor: pointer;
+}
+.button:hover{
+    background-color: #06576C;
+    border: 1px solid #D8E4E8;
+    color: #D8E4E8;    
+}

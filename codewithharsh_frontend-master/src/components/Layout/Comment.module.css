@@ -1,0 +1,21 @@
+.commentbox{
+    background-color: #D8E4E8; 
+    margin-top: 10px;
+    border-radius: 10px;
+    outline: none;
+}
+
+.comment{
+    width: 75%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 15fr 1fr;
+}
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #D8E4E8;
+    border: none;
+    cursor: pointer;
+}

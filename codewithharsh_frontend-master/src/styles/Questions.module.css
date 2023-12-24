@@ -1,0 +1,11 @@
+.li{
+    display: grid;
+    grid-template-columns: 10fr 2fr 1fr 1fr;
+    background-color: #D8E4E8;
+    width: 85%;
+    margin-right: 10%;
+    margin-left: 5%;
+    margin-top: 8px;
+    padding: 8px;
+    border-radius: 10px;
+}
